@@ -18,6 +18,7 @@ ul{
 .header-logo-item{
     color: 
     #4D5AE5;
+    font-weight: 700;
    
 }
 .header-menu-list{
@@ -183,7 +184,8 @@ ul{
     background: #2E2F42;
 
 }
-.footer-logo-item {
+.footer-logo {
+    color: #fff;
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
@@ -191,7 +193,13 @@ ul{
     letter-spacing: 0.03em;
     text-align: left;
 }
+.footer-logo-item{
+    color: 
+    #4D5AE5;
+    font-weight: 700;
+}
 .footer-text {
+    color: #fff;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
