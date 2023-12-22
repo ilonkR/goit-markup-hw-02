@@ -1,20 +1,209 @@
-.body{
-    font-family: 'Roboto','Raleway', sans-serif;
+body{
+    font-family: 'Raleway','Roboto', sans-serif;
+    
+}
+ul{
+    list-style: none;
+}
+/* HEADER */
+.header-logo{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+
+}
+.header-logo-item{
+    color: 
+    #4D5AE5;
+    font-weight: 700;
+   
+}
+.header-menu-list{
+   color: black;
+   font-family: Roboto;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   letter-spacing: 0.02em;
+   text-align: left;
+   text-decoration: none;
+}
+.header-menu-list:hover,
+.header-menu-list:active{
+    color: 
+    #404BBF;
+}
+.header-adress-list{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    font-style: normal;
+}
+.header-adress-mail{
+    color: black;
+    text-decoration: none;
+}
+.header-adress-tel{
+    color: black;
+    text-decoration: none;
+}
+.header-adress-mail:hover{
+    color: #404BBF;
+}
+.header-adress-tel:hover{
+    color: #404BBF;
+}
+/* HERO */
+.hero {
+    background: #2E2F42;
+}
+.hero-title {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.hero-button {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    cursor: pointer;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+/* FEATURES */
+/* .features-list {
+}
+.features-list-item {
+} */
+.features-subtitle {    
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.features-paragraph {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+/* OUR-TEAM */
+.our-team {
+    background: #F4F4FD;
+}
+.our-team-title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+}
+/* .our-team-list {
+}
+.our-team-item {
+}
+.our-team-img {
+} */
+.our-team-subtitle {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.our-team-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+/* OUR-PORTFOLIO */
+/* .our-portfolio {
+}
+.our-portfolio-list {
+}
+.our-portfolio-item {
+} 
+.our-portfolio-img {
+}*/
+.our-portfolio-title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+}
+.our-portfolio-subtitle {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.our-portfolio-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+/* FOOTER */
+.footer {
+    background: #2E2F42;
+
+}
+.footer-logo {
+    color: #fff;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+.footer-logo-item{
+    color: 
+    #4D5AE5;
     font-weight: 700;
 }
-.links{
-    color: #434455
-}
-.links:hover,
-.links:focus{
-    color: #404BBF;
-
-}
-.button{
-    color: #4D5AE5;
-}
-.button:hover,
-.button:focus{
-    color: #404BBF;
-
+.footer-text {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
 }
