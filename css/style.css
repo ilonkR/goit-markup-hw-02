@@ -1,20 +1,9 @@
-.body{
-    font-family: 'Roboto','Raleway', sans-serif;
-    font-weight: 700;
-}
-.links{
-    color: #434455
-}
-.links:hover,
-.links:focus{
-    color: #404BBF;
+.information{
+    color: #2E2F42;
 
 }
-.button{
-    color: #4D5AE5;
-}
-.button:hover,
-.button:focus{
-    color: #404BBF;
 
+.information:hover,:active{
+    color: #404BBF;
+    
 }
