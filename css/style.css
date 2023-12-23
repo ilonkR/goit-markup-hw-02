@@ -46,11 +46,11 @@ ul{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
     font-style: normal;
 }
 .header-adress-item{
     color: #434455 ;
+    font-style: normal;
     text-decoration: none;
 }
 
@@ -80,7 +80,6 @@ ul{
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.04em;
-    text-align: left;
     cursor: pointer;
 }
 .hero-button:hover,
@@ -113,7 +112,6 @@ ul{
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 .features-paragraph {
     color: #434455;
@@ -121,7 +119,6 @@ ul{
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 /* OUR-TEAM */
 .our-team {
@@ -184,7 +181,6 @@ ul{
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 .our-portfolio-text {
     color: #434455;
@@ -193,7 +189,6 @@ ul{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
 }
 /* FOOTER */
 .footer {
@@ -211,16 +206,15 @@ ul{
     text-decoration: none;
 }
 .footer-logo-item{
-    color: #f4f4fd;
+    color: #F4F4FD;
     font-weight: 700;
     text-decoration: none;
 }
 .footer-text {
-    color: #f4f4fd;
+    color: #f4f4fd ;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
 }
