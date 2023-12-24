@@ -44,7 +44,6 @@ ul{
     color: #2e2f42;
     font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
     font-style: normal;
@@ -68,7 +67,6 @@ ul{
     color: #fff;
     font-family: Roboto;
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -129,7 +127,6 @@ ul{
     color: #2e2f42;
     font-family: Roboto;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
@@ -153,7 +150,6 @@ ul{
     color: #434455;
     font-family: Roboto, sans-serif;
     font-size: 16px;
-    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
 }
@@ -170,7 +166,6 @@ ul{
     color: #2E2F42;
     font-family: Roboto;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
@@ -187,7 +182,6 @@ ul{
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
 }
@@ -208,14 +202,12 @@ ul{
 }
 .footer-logo-item{
     color: #F4F4FD;
-    font-weight: 700;
     text-decoration: none;
 }
 .footer-text {
     color: #f4f4fd ;
     font-family: Roboto;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
