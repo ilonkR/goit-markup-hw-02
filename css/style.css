@@ -11,6 +11,7 @@ ul{
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     letter-spacing: 0.03em; 
+    font-weight: 700;
     line-height: 1.17;
     text-transform: uppercase;
     color:  #4d5ae5;
@@ -41,6 +42,7 @@ ul{
     color: #2e2f42;
     font-family: Roboto;
     font-size: 16px;
+    font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
     font-style: normal;
@@ -72,6 +74,7 @@ ul{
     color:#fff;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
+    font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.04em;
@@ -135,6 +138,7 @@ ul{
     font-family: Roboto;
     font-size: 20px;
     line-height: 24px;
+    font-weight: 500;
     letter-spacing: 0.02em;
 }
 .our-team-text {
@@ -158,6 +162,7 @@ ul{
     font-family: Roboto;
     font-size: 36px;
     line-height: 1.11;
+    font-weight: 500;
     letter-spacing: 0.02em;
     text-align: center;
 }
