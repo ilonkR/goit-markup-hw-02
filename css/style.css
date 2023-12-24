@@ -161,11 +161,10 @@ ul{
 .our-portfolio-img {
 }*/
 .our-portfolio-title {
-    color: #2E2F42;
     font-family: Roboto;
     font-size: 36px;
-    line-height: 1.11;
-    font-weight: 500;
+    font-weight: 700;
+    line-height: 40px;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -190,14 +189,13 @@ ul{
 
 }
 .footer-logo {
-    font-family: "Raleway", sans-serif;
+    font-family: Raleway;
     font-size: 18px;
-    letter-spacing: 0.03em; 
-    line-height: 1.17;
     font-weight: 700;
-    text-transform: uppercase;
-    color:  #4d5ae5;
-    text-decoration: none;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    ;
 }
 .footer-logo-item{
     font-weight: 700;
