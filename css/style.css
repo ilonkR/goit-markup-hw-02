@@ -21,7 +21,6 @@ ul{
     color: #2E2F42;
     font-weight: 700;
     text-decoration: none;
-   
 }
 .header-menu-list{
    color:  #2e2f42 ;
@@ -30,7 +29,6 @@ ul{
    font-weight: 500;
    line-height: 24px;
    letter-spacing: 0.02em;
-   text-align: left;
    font-style: normal;
    text-decoration: none;
 }
@@ -38,6 +36,9 @@ ul{
 .header-menu-list:focus{
     color: 
     #404bbf ;
+}
+.header-adress{
+    font-style: normal;
 }
 .header-adress-list{
     color: #2e2f42;
