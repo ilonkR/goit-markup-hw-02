@@ -10,7 +10,6 @@ ul{
 .header-logo{
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    font-weight: 700;
     letter-spacing: 0.03em; 
     line-height: 1.17;
     text-transform: uppercase;
@@ -19,14 +18,12 @@ ul{
 }
 .header-logo-item{
     color: #2E2F42;
-    font-weight: 700;
     text-decoration: none;
 }
 .header-menu-list{
    color:  #2e2f42 ;
    font-family: Roboto;
    font-size: 16px;
-   font-weight: 500;
    line-height: 24px;
    letter-spacing: 0.02em;
    font-style: normal;
@@ -76,7 +73,6 @@ ul{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.04em;
     cursor: pointer;
@@ -142,7 +138,6 @@ ul{
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
-    font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
 }
@@ -174,7 +169,6 @@ ul{
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
-    font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
 }
